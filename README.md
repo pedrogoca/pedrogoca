@@ -60,18 +60,6 @@ Sistema de registro de aspirantes, gestión documental y seguimiento del proceso
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrogoca&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogoca&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 ¡Conectemos!
