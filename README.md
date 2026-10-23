@@ -1,16 +1,91 @@
-## Hi there 👋
 
-<!--
-**pedrogoca/pedrogoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 ¡Hola! Soy Pedro González
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Full Stack Developer | Software Architect | IT Consultant
+
+Desarrollador de soluciones empresariales, plataformas educativas y aplicaciones móviles.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pedrogoca)
+[![Sitio web](https://img.shields.io/badge/Sitio_Web-008C85?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mwc.com.mx/)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🔭 Actualmente trabajo con **Laravel, Angular y Flutter**.
+- 🌱 Me interesa la ciberseguridad, inteligencia artificial y arquitectura de software.
+- 💬 Especializado en desarrollo **Backend, Frontend y Móvil**.
+- 🏢 Desarrollo soluciones tecnológicas y sistemas empresariales.
+- 🚀 Me apasiona transformar ideas en soluciones digitales.
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+PHP · JavaScript · TypeScript · Dart · SQL
+
+### Frontend
+Angular · Tailwind CSS · HTML5 · CSS3
+
+### Backend
+Laravel · PHP · REST API
+
+### Desarrollo móvil
+Flutter · Ionic · Capacitor
+
+### Bases de datos
+MySQL · SQLite
+
+### Herramientas
+Git · GitHub · Linux · Docker
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔹 MWComenius
+Plataforma integral de gestión educativa, control escolar, control financiero y seguimiento académico.
+
+**Tecnologías:** PHP, Laravel, Angular y MySQL.
+
+### 🔹 FastNom
+Sistema para la administración de nómina y gestión empresarial.
+
+**Tecnologías:** Laravel, Angular y MySQL.
+
+### 🔹 CRM de Aspirantes
+Sistema de registro de aspirantes, gestión documental y seguimiento del proceso de admisión.
+
+**Tecnologías:** Laravel 12, PHP y MySQL.
+
+### 🔹 Aplicaciones educativas
+Desarrollo de aplicaciones móviles para estudiantes, con servicios académicos y administrativos.
+
+**Tecnologías:** Flutter, Laravel y REST API.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrogoca&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogoca&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 ¡Conectemos!
+
+Siempre abierto a colaborar en proyectos innovadores y soluciones tecnológicas.
+
+**¡Gracias por visitar mi perfil! 🚀**
+
+</div>
