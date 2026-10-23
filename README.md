@@ -16,9 +16,9 @@ Desarrollador de soluciones empresariales, plataformas educativas y aplicaciones
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo con **Laravel, Angular y Flutter**.
+- 🔭 Actualmente trabajo con **PHP, Laravel y Angular**.
 - 🌱 Me interesa la ciberseguridad, inteligencia artificial y arquitectura de software.
-- 💬 Especializado en desarrollo **Backend, Frontend y Móvil**.
+- 💬 Especializado en desarrollo **Backend, Frontend**.
 - 🏢 Desarrollo soluciones tecnológicas y sistemas empresariales.
 - 🚀 Me apasiona transformar ideas en soluciones digitales.
 
@@ -32,9 +32,6 @@ Angular · Tailwind CSS · HTML5 · CSS3
 
 ### Backend
 Laravel · PHP · REST API
-
-### Desarrollo móvil
-Flutter · Ionic · Capacitor
 
 ### Bases de datos
 MySQL · SQLite
@@ -60,11 +57,6 @@ Sistema para la administración de nómina y gestión empresarial.
 Sistema de registro de aspirantes, gestión documental y seguimiento del proceso de admisión.
 
 **Tecnologías:** Laravel 12, PHP y MySQL.
-
-### 🔹 Aplicaciones educativas
-Desarrollo de aplicaciones móviles para estudiantes, con servicios académicos y administrativos.
-
-**Tecnologías:** Flutter, Laravel y REST API.
 
 ---
 
